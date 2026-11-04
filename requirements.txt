@@ -1,0 +1,10 @@
+gradio>=4.44
+torch
+torchvision
+diffusers>=0.30
+transformers>=4.44
+accelerate
+safetensors
+pillow>=10.1
+numpy
+openai>=1.0
